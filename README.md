@@ -24,12 +24,8 @@ Si estás interesado en adquirir el sistema o tienes alguna pregunta, no dudes e
 
 # 🛠️ Funcionalidades
 
-### 💻 Version AppWeb: V 1.0.0
-
-
-
 ### 🔍 Panel de Control
 
-### <span>I LOVE YOU</span>
+### ❤ <span>I LOVE YOU</span>
 
 ![Pantalla Cara Masiva](iloveyou/assets/image.png)
