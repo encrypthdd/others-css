@@ -32,3 +32,11 @@ Si estás interesado en adquirir el sistema o tienes alguna pregunta, no dudes e
 ```
 https://demo.carlospcssoluciones.com.ve/dev.cflores/others/iloveyou/
 ```
+### 🥧 <span>Birthday Cake</span>
+
+![Pantalla Cara Masiva](birthday-cake/assets/imagen.png)
+
+#### 📌 Birthday Cake DEMO: 
+```
+https://demo.carlospcssoluciones.com.ve/dev.cflores/others/birthday-cake/
+```
