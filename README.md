@@ -42,9 +42,9 @@ https://demo.carlospcssoluciones.com.ve/dev.cflores/others/birthday-cake/
 ```
 ### 💡 <span>Lamp</span>
 
-![Lamp](lamp/assets/imagen.png)
+![Lamp](lamp/assets/image.png)
 
-#### 📌 Birthday Cake DEMO: 
+#### 📌 Lamp DEMO: 
 ```
 https://demo.carlospcssoluciones.com.ve/dev.cflores/others/lamp/
 ```
